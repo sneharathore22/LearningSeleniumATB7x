@@ -5,23 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ef37fc0-6f28-4a85-a893-cc9080e6690f" name="Changes" comment="Selenium">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_selenium/Project01/Selenium010.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_selenium/Project01/Selenium013.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_selenium/Selenium002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_selenium/Selenium003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_selenium/Selenium004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_selenium/Selenium005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_selenium/Selenium006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_selenium/Selenium007.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_selenium/Selenium008.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_selenium/Selenium009.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_selenium/Selenium011.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_selenium/Selenium012.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_selenium/Selenium014.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_selenium/Selenium015.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_selenium/selenium16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_selenium/Project02/Selenium016.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_selenium/Selenium017.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_selenium/Selenium018.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_selenium/Selenium019.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_selenium/selenium16.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,31 +67,55 @@
     "TestNG.Selenium010.testVWOLoginPageTitle.executor": "Run",
     "TestNG.Selenium011.vwoLogin.executor": "Run",
     "TestNG.Selenium016.testVWOLoginNegative.executor": "Run",
+    "TestNG.Selenium017.testVwoLoginNegative.executor": "Run",
     "TestNG.Selenium09.katalonCuraTC.executor": "Run",
     "TestNG.Selenium10.executor": "Run",
     "TestNG.Selenium10.testVWOLoginPageTitle.executor": "Run",
     "TestNG.Selenium_009.katalonCuraTC.executor": "Run",
     "TestNG.selenium0016.testVWOLoginNegative.executor": "Run",
+    "TestNG.selenium16.testVWOLoginNegative.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.selenium0016.testVWOLoginNegative">
-    <configuration name="Selenium013" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_selenium.Project01.Selenium013" />
+  <component name="RunManager" selected="TestNG.Selenium017.testVwoLoginNegative">
+    <configuration name="Selenium016.testVWOLoginNegative" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSeleniumATB7x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex_selenium.Project01.*" />
+          <option name="PATTERN" value="com.thetestingacademy.ex_selenium.Project02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_selenium.Project02" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_selenium.Project02.Selenium016" />
+      <option name="METHOD_NAME" value="testVWOLoginNegative" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Selenium014" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_selenium.Selenium014" />
+    <configuration name="Selenium016.testVwoLoginNegative" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningSeleniumATB7x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex_selenium.Project02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_selenium.Project02" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_selenium.Project02.Selenium016" />
+      <option name="METHOD_NAME" value="testVwoLoginNegative" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selenium017.testVwoLoginNegative" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSeleniumATB7x" />
       <extension name="coverage">
         <pattern>
@@ -109,19 +123,12 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Selenium015" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_selenium.Selenium015" />
-      <module name="LearningSeleniumATB7x" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex_selenium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_selenium" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_selenium.Selenium017" />
+      <option name="METHOD_NAME" value="testVwoLoginNegative" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -130,7 +137,7 @@
       <module name="LearningSeleniumATB7x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex_selenium.*" />
+          <option name="PATTERN" value="com.thetestingacademy.ex_selenium.Project02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,16 +151,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="selenium016.testVWOLoginNegative" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="selenium16.testVWOLoginNegative" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSeleniumATB7x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex_selenium.*" />
+          <option name="PATTERN" value="com.thetestingacademy.ex_selenium.Project02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_selenium" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_selenium.selenium016" />
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_selenium.Project02" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_selenium.Project02.selenium16" />
       <option name="METHOD_NAME" value="testVWOLoginNegative" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -164,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Selenium017.testVwoLoginNegative" />
+        <item itemvalue="TestNG.Selenium016.testVwoLoginNegative" />
+        <item itemvalue="TestNG.Selenium016.testVWOLoginNegative" />
+        <item itemvalue="TestNG.selenium16.testVWOLoginNegative" />
         <item itemvalue="TestNG.selenium0016.testVWOLoginNegative" />
-        <item itemvalue="TestNG.selenium016.testVWOLoginNegative" />
-        <item itemvalue="Application.Selenium015" />
-        <item itemvalue="Application.Selenium014" />
-        <item itemvalue="Application.Selenium013" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +212,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730959863776</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Selenium">
+      <option name="closed" value="true" />
+      <created>1731154514152</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731154514152</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
